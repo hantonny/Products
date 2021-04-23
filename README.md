@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Products" title="#Products" src="/public/logo.png" width="600px" />
+    <img alt="Products" title="#Products" src="/public/products.png" width="600px" />
 </h1>
 
 ## 💻 Projeto
